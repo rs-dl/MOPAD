@@ -1,12 +1,23 @@
 # MOPAD
 
+# Training
+
+CUDA_VISIBLE_DEVICES=gpu_id python tools/train.py configs/oilPalmUav/mopad.py
+
+
+# Inference for the whole image
+
+CUDA_VISIBLE_DEVICES=gpu_id python demo/demoFull.py configs/oilPalmUav/mopad.py work_dirs/mopad/latest.pth mopad-det.txt `the test images`
+
+
+# Dataset
 Our dataset can be downloaded from
 
 [Google Drive](https://drive.google.com/drive/folders/17I8HVrGo812vpMdD2EKrkdw_61NVrUfb?usp=sharing)
 
 [Baidu Wangpan](https://pan.baidu.com/s/1JStM5aYCjtZho249PuJ_WQ)  Access: qpaw
 
-Our codes will be available soon!
+The data should be saved in the folder `./data`
 
 
 # Details
