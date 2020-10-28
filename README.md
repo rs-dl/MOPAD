@@ -35,10 +35,3 @@ The structure of the dataset is as follows:
 - `annotations`: annotations including `instances_train2017.json` and `instances_val2017.json` for training and validation dataset, respectively
 
 
-## Concact
-
-Juepeng Zheng: zjp19@mails.tsinghua.edu.cn
-
-Weijia Li: weijiali@cuhk.edu.hk
-
-Haohuan Fu: haohuan@tsinghua.edu.cn
