@@ -11,7 +11,7 @@
 
 ## Models
 
-Our training models for Site 2 can be downloaded from
+Our training models can be downloaded from
 
 [Baidu Wangpan](https://pan.baidu.com/s/1Vj-Se2LUi8839_JjYIh2tQ) Access: 7n61
 
