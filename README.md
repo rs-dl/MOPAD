@@ -11,13 +11,13 @@
 
 ## Models
 
-Our training models can be downloaded from
+Our training models for Site 2 can be downloaded from
 
 [Baidu Wangpan](https://pan.baidu.com/s/1Vj-Se2LUi8839_JjYIh2tQ) Access: 7n61
 
 
 ## Dataset
-Our dataset can be downloaded from
+Our dataset for Site 2 can be downloaded from
 
 [Google Drive](https://drive.google.com/drive/folders/17I8HVrGo812vpMdD2EKrkdw_61NVrUfb?usp=sharing)
 
