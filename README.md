@@ -1,5 +1,7 @@
 # MOPAD
 
+These codes and datsets are from the paper "Growing status observation for oil palm tree using Unmanned Aerial Vehicle (UAV) images", which is under review in ISPRS Photogrammetry and Remote Sensing (Major Revision)
+
 ## Training
 
 `
