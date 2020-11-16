@@ -4,16 +4,16 @@ These codes and datsets are from the paper "Growing status observation for oil p
 
 ## Training
 
-`
+```bash
 CUDA_VISIBLE_DEVICES=gpu_id python tools/train.py configs/oilPalmUav/mopad.py
-`
+```
 
 
 ## Inference for the whole image
 
-`
+```bash
 CUDA_VISIBLE_DEVICES=gpu_id python demo/demoFull.py configs/oilPalmUav/mopad.py work_dirs/mopad/latest.pth mopad-det.txt test_images
-`
+```
 
 ## Models
 
