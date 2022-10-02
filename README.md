@@ -49,3 +49,25 @@ The structure of the dataset is as follows:
 - `annotations`: annotations including `instances_train2017.json` and `instances_val2017.json` for training and validation dataset, respectively
 
 
+## Citation
+
+If you use this code for your research, please consider citing:
+
+```
+@article{zheng2021growing,
+  title={Growing status observation for oil palm trees using Unmanned Aerial Vehicle (UAV) images},
+  author={Zheng, Juepeng and Fu, Haohuan and Li, Weijia and Wu, Wenzhao and Yu, Le and Yuan, Shuai and Tao, Wai Yuk William and Pang, Tan Kian and Kanniah, Kasturi Devi},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={173},
+  pages={95--121},
+  year={2021},
+  publisher={Elsevier}
+}
+```
+
+Zheng, J., Fu, H., Li, W., Wu, W., Yu, L., Yuan, S., ... & Kanniah, K. D. (2021). Growing status observation for oil palm trees using Unmanned Aerial Vehicle (UAV) images. ISPRS Journal of Photogrammetry and Remote Sensing, 173, 95-121.
+
+## Contact
+
+zjp19@mails.tsinghua.edu.cn
+
